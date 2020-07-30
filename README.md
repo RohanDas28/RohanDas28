@@ -1,4 +1,4 @@
-### Hi there, I'm Rohan [website] 👋
+### Hi there, I'm [Rohan][website] 👋
 
 ## I'm an enthusiastic techie and a developer!
 - 🌱 I’m still a learner 😅
@@ -14,8 +14,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanDas28&show_icons=true&hide_border=true" />
+<img align="left" alt="RohanDas28's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanDas28&show_icons=true&hide_border=true" />
 
 
 
