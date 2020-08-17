@@ -16,7 +16,7 @@
 <br />
 
 ---
-<img align="left" alt="RohanDas28's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanDas28&show_icons=true&hide_border=true" />
+<img align="left" alt="RohanDas28's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanDas28&show_icons=true&hide_border=true&theme=radical" />
 
 
 
