@@ -7,10 +7,10 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
  ## My Skills :computer:
 
- **Web Development**
+ **Languages**
  
- <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"/>|<img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>|<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"/>|<img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bulma.svg"/>
- |--|--|--|--|--|
+ <img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"/>|<img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>|<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"/>|<img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bulma.svg"/>
+ |--|--|--|--|--|--|
  
  **Tools**
  
