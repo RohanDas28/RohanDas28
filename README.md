@@ -1,5 +1,10 @@
 
-<h1>Hi there, I am <a href="https://rohandas28.github.io" target="_blank">Rohan</a> 🙋🏽‍♂️</h1>
+<h1>Hi there, I am <a href="https://rohandas28.github.io" target="_blank">Rohan</a> 🙋🏽‍♂️</h1> 
+
+![](https://visitor-badge.glitch.me/badge?page_id=rohandas28) 
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community. 
 
@@ -33,3 +38,5 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
 ### Connect with Me
 [<img align="left" alt="Rohan Das" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rohandas28.github.io) [<img align="left" alt="Twitter - Rohan Das" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/rohandas28) [<img align="left" alt="Instagram - Rohan Das" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/RohanDasRD) [<img align="left" alt="LinkedIn - Rohan Das" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/RohanDas28) [<img align="left" alt="YouTube -Rohan Das" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/youtube.svg" />](https://www.youtube.com/c/RohanDasTech) [<img align="left" alt="Email -Rohan Das" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:rohandasbirbhum@gmail.com)
+
+
