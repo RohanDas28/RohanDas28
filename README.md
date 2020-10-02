@@ -27,7 +27,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 <img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/>|<img alt="Adobe Lightroom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobelightroomcc.svg"/>|<img alt="Gimp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gimp.svg"/>
  |--|--|--|
 
-**Video & Sound Editing**
+**Video & Audio Editing**
 
 <img alt="Adobe Premiere Pro" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobepremierepro.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeaftereffects.svg"/>|<img alt="Adobe Audition" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeaudition.svg"/>|<img alt="Audacity" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/audacity.svg"/>
 |--|--|--|--|
