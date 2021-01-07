@@ -34,7 +34,6 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 ---
 ### Connect with Me
 [<img align="left" alt="Rohan Das" width="30px" src="https://rohandas28.github.io/assets/images/logo.png" />](https://rohandas28.github.io) [<img align="left" alt="Twitter - Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />](https://twitter.com/rohandas28) [<img align="left" alt="Instagram - Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/RohanDasRD) [<img align="left" alt="LinkedIn - Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" />](https://www.linkedin.com/in/RohanDas28) [<img align="left" alt="YouTube -Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733590.svg" />](https://www.youtube.com/c/RohanDasTech) [<img align="left" alt="Email -Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:rohandasbirbhum@gmail.com)
-
 ---
 
 ## **My GitHub Stats**
