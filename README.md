@@ -14,8 +14,8 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
  **Languages and Frameworks**
  
- <img alt="Python" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/>|<img alt="HTML" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"/>|<img alt="CSS" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"/>|<img alt="JavaScript" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg"/>|<img alt="Bootstrap" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1348/1348052.svg"/>|<img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/17261479e64d27613dfd2f71e66eefae38b3d698/logos/bulma.svg"/>|<img alt="tailwindcss" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
- |--|--|--|--|--|--|--|
+ <img alt="Python" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/>|<img alt="C" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/3600/3600912.svg?token=exp=1610688600~hmac=8039cb0e9e40183f801adab3cbcf44c0"/>|<img alt="HTML" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"/>|<img alt="CSS" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"/>|<img alt="JavaScript" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg"/>|<img alt="Bootstrap" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1348/1348052.svg"/>|<img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/17261479e64d27613dfd2f71e66eefae38b3d698/logos/bulma.svg"/>|<img alt="tailwindcss" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+ |--|--|--|--|--|--|--|--|
  
  **Tools**
  
