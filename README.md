@@ -24,13 +24,13 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
  
  **Designing and Photo Editing**
  
-<img alt="Adobe Photoshop" width="30px" src="/Assets/photoshop.png"/>|<img alt="Adobe Lightroom" width="30px" src="/Assets/lightroom.png"/>|<img alt="Sony Vegas" width="30px" src="/Assets/vegas.png"/>|<img alt="Gimp" width="30px" src="/Assets/gimp-icon.svg"/>
- |--|--|--|--|
+<img alt="Adobe Photoshop" width="30px" src="/Assets/photoshop.png"/>|<img alt="Adobe Lightroom" width="30px" src="/Assets/lightroom.png"/>|<img alt="Gimp" width="30px" src="/Assets/gimp-icon.svg"/>
+ |--|--|--|
 
 **Audio & Video Editing**
 
-<img alt="Adobe Premiere Pro" width="30px" src="/Assets/premier.png"/>|<img alt="Adobe After Effects" width="30px" src="/Assets/after-effects.png"/>|<img alt="Adobe Audition" width="30px" src="/Assets/audition.png"/>|<img alt="Audacity" width="30px" src="/Assets/Audacity_Logo_nofilter.svg"/>
-|--|--|--|--|
+<img alt="Adobe Premiere Pro" width="30px" src="/Assets/premier.png"/>|<img alt="Adobe After Effects" width="30px" src="/Assets/after-effects.png"/>|<img alt="Sony Vegas" width="30px" src="/Assets/vegas.png"/>|<img alt="Adobe Audition" width="30px" src="/Assets/audition.png"/>|<img alt="Audacity" width="30px" src="/Assets/Audacity_Logo_nofilter.svg"/>
+|--|--|--|--|--|
 
  **Connect with Me**
 ---
