@@ -1,44 +1,84 @@
+<div align="center">
 
-<h1>Hi there, I am <a href="https://rohandas28.github.io" target="_blank">Rohan</a> 🙋🏽‍♂️</h1> 
+<!-- Animated contribution heatmap: live data, diagonal pop reveal
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+<h3><code>rohan@github ~ $ ./contributions.sh</code></h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=rohandas28) 
+<img src="./contrib-heatmap.svg" width="860" alt="Rohan's GitHub contribution graph — auto-refreshed daily" />
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<br>
+<br>
 
+<!-- ASCII portrait (left) + stats card (right). Both SVGs are 840x880
+     so equal widths give equal heights.
+     Portrait: python scripts/prep_photo.py profile.png && python scripts/make_ascii_svg.py
+     Stats:    python scripts/render_stats_svg.py (auto-refreshed daily) -->
+<h3><code>rohan@github ~ $ whoami</code></h3>
 
-I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community. 
+<table>
+  <tr>
+    <td valign="top"><img src="./rohan-ascii.svg" width="420" alt="Rohan Das — ASCII portrait" /></td>
+    <td valign="top"><img src="./stats.svg" width="420" alt="Rohan Das — GitHub stats & streak" /></td>
+  </tr>
+</table>
 
----
+<br>
+<br>
 
- ## My Skills <img alt="Computer" width="40px" src="/Assets/desktop.png"/>
+<!-- Tech Stack & Tools -->
+<h3><code>rohan@github ~ $ neofetch --skills</code></h3>
 
- **Languages**
- 
- <img alt="Python" width="30px" src="/Assets/python.png"/>|<img alt="C" width="30px" src="/Assets/c-programming.png"/>|<img alt="C++" width="30px" src="/Assets/c++.png"/>|<img alt="Java" width="30px" src="/Assets/java.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>
- |--|--|--|--|--|--|--|
- 
- **Frameworks**
- 
- <img alt="nextjs" width="30px" src="/Assets/next.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/tailwindcss-icon.svg"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Bulma" width="30px" src="/Assets/bulma.svg"/>
- |--|--|--|--|
- 
- **Tools**
- 
- <img alt="Ubuntu" width="30px" src="/Assets/ubuntu.png"/>|<img alt="Linux" width="30px" src="/Assets/linux.png"/>|<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|
- |--|--|--|--|
- 
- **Designing and Photo Editing**
- 
-<img alt="Adobe Photoshop" width="30px" src="/Assets/photoshop.png"/>|<img alt="Adobe Lightroom" width="30px" src="/Assets/lightroom.png"/>|<img alt="Gimp" width="30px" src="/Assets/gimp-icon.svg"/>
- |--|--|--|
-
-**Audio & Video Editing**
-
-<img alt="Adobe Premiere Pro" width="30px" src="/Assets/premier.png"/>|<img alt="Adobe After Effects" width="30px" src="/Assets/after-effects.png"/>|<img alt="Sony Vegas" width="30px" src="/Assets/vegas.png"/>|<img alt="Adobe Audition" width="30px" src="/Assets/audition.png"/>|<img alt="Audacity" width="30px" src="/Assets/Audacity_Logo_nofilter.svg"/>
-|--|--|--|--|--|
-
- **Connect with Me**
----
-[<img align="left" alt="Rohan Das" width="30px" src="https://rohandas28.github.io/uploads/logobig.png" />](https://rohandas28.github.io/links) [<img align="left" alt="Twitter - Rohan Das" width="30px" src="/Assets/twitter.png" />](https://twitter.com/rohandas28) [<img align="left" alt="Instagram - Rohan Das" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/RohanDasRD) [<img align="left" alt="LinkedIn - Rohan Das" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/rohandas28) [<img align="left" alt="YouTube -Rohan Das" width="30px" src="/Assets/youtube.png" />](https://www.youtube.com/c/RohanDasTech) [<img align="left" alt="Email -Rohan Das" width="30px" src="/Assets/gmail.png" />](mailto:rohandasbirbhum@gmail.com)
+<img src="./skills.svg" width="860" alt="Rohan's Skills & Tech Stack — Animated Terminal Dashboard" />
 
 
+<!-- 
+<details>
+  <summary><b>⚡ View Full Skills & Frameworks Inventory</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop" />
+    <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
+    <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
+  </p>
+</details> -->
+
+<br>
+<br>
+
+<!-- Connect With Me -->
+<h3><code>rohan@github ~ $ ./connect.sh</code></h3>
+
+<p><b>Developer · Open Source Contributor · Creative Techie</b></p>
+
+<p>
+  <a href="https://rohandas28.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-rohandas28.github.io-161b22?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0d1117" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohandas28" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-in%2Frohandas28-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/rohandas28" target="_blank">
+    <img src="https://img.shields.io/badge/X-@rohandas28-161b22?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter / X" />
+  </a>
+  <a href="https://www.instagram.com/RohanDasRD" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-@RohanDasRD-161b22?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d1117" alt="Instagram" />
+  </a>
+  <a href="mailto:rohandasbirbhum@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-rohandasbirbhum@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Email" />
+  </a>
+</p>
+
+<br>
+
+</div>

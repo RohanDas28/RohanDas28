@@ -1,0 +1,6 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+# Portrait tools (run locally or on setup):
+pillow>=10.0.0
+numpy>=1.24.0
+opencv-python-headless>=4.8.0
