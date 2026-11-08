@@ -1,17 +1,17 @@
 {
   "username": "RohanDas28",
-  "generated_at": "2026-11-07T13:14:43Z",
+  "generated_at": "2026-11-08T13:36:10Z",
   "range": {
-    "start": "2025-11-02",
-    "end": "2026-11-07"
+    "start": "2025-11-09",
+    "end": "2026-11-08"
   },
-  "total_contributions": 1864,
-  "active_days": 356,
+  "total_contributions": 1831,
+  "active_days": 351,
   "avg_per_active_day": 5.2,
   "current_streak": {
-    "length": 38,
+    "length": 40,
     "start": "2026-09-30",
-    "end": "2026-11-06"
+    "end": "2026-11-08"
   },
   "longest_streak": {
     "length": 142,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-11",
-      "total": 128
+      "total": 92
     },
     {
       "month": "2025-12",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-11",
-      "total": 14
+      "total": 17
     }
   ],
   "days": [
-    {
-      "date": "2025-11-02",
-      "count": 4,
-      "level": 1
-    },
-    {
-      "date": "2025-11-03",
-      "count": 11,
-      "level": 3
-    },
-    {
-      "date": "2025-11-04",
-      "count": 5,
-      "level": 2
-    },
-    {
-      "date": "2025-11-05",
-      "count": 5,
-      "level": 2
-    },
-    {
-      "date": "2025-11-06",
-      "count": 5,
-      "level": 2
-    },
-    {
-      "date": "2025-11-07",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-11-08",
-      "count": 4,
-      "level": 1
-    },
     {
       "date": "2025-11-09",
       "count": 4,
@@ -1929,8 +1894,13 @@
     },
     {
       "date": "2026-11-07",
-      "count": 0,
-      "level": 0
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-08",
+      "count": 2,
+      "level": 1
     }
   ]
 }
